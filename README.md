@@ -9,19 +9,21 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"  width="60" height="60"> 
  <br></br>
 <h3>FrontEnd</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"  width="60" height="60"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"  width="60" height="60"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"  width="80" height="80"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"  width="80" height="80"> 
 <br>
-<img src="https://styled-components.com/logo.png"  width="120" height="120"> 
+<img src="https://styled-components.com/logo.png"  width="130" height="130"> 
 </br>
  
  
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"  width="80" height="80">
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"  width="120" height="80">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"  width="90" height="90">
+ &nbsp&nbsp&nbsp
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"  width="160" height="90">
  <br></br>
  <h3>BackEnd</h3>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"  width="80" height="80">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"  width="120" height="80">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"  width="120" height="100">
+  &nbsp&nbsp&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"  width="140" height="100">
 </div>
 
 <p>I'm working on both FrontEnd side and BackEnd -side development with JavaScript programming language.
