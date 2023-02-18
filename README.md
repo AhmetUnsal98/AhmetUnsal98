@@ -20,16 +20,8 @@
  &nbsp&nbsp&nbsp
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png"  width="160" height="90">
  <br></br>
- <h3>BackEnd</h3>
- <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"  width="120" height="100">
-  &nbsp;&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"  width="120" height="100">
-   &nbsp;&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"  width="140" height="100">
-   
-</div>
-<p>I'm working on both FrontEnd side and BackEnd -side development with JavaScript programming language.
+ 
+<p>I'm working on FrontEnd  with JavaScript programming language.
 
 </p>
 <p>
