@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there , i'm Ahmet - aka Neferian<br>💬 Ask me about Frontend and Backend side<br>⚡ Fun fact : I love coding more than playing ps5 :),<br>💻 You can view my projects from my website : https://ahmetunsal.online
+Hi there , i'm Ahmet - aka Neferian<br>💬 Ask me about Frontend and Backend side<br>⚡ Fun fact : I love coding more than playing ps :),<br>💻 You can view my projects from my website : https://ahmetunsal.online
 
 
 ## 🌐 Socials:
